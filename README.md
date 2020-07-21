@@ -3,7 +3,7 @@
 First clone this repository to your laptop. You must have Node (> v4) and yarn installed.
 
 ```
-cd ~/code/<your_github_nickname>
+cd ~/code/$USER
 git clone  git@github.com:andrerferrer/426-js-puzzle.git
 cd 426-js-puzzle
 yarn install
