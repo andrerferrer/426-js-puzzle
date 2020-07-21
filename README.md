@@ -1,4 +1,5 @@
-Usage
+# Usage
+
 First clone this repository to your laptop. You must have Node (> v4) and yarn installed.
 
 ```
